@@ -1,0 +1,861 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2020,true,,,,,,,,,,,,,1094,,,,,,"1,094",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2020,true,,,,,,,,,,,,,1179031,,,,,,"1,179,031",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2020,true,,,,,,,,,,,,,1184901,,,,,,"1,184,901",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,KEN,Kenya,Year,2020,true,,,,,,,,,,,,,1229955,,,,,,"1,229,955",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,HRV,Croatia,Year,2020,true,,,,,,,,,,,,,1265,,,,,,"1,265",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,UGA,Uganda,Year,2020,true,,,,,,,,,,,,,1279427,,,,,,"1,279,427",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2020,true,,,,,,,,,,,,,1402900,,,,,,"1,402,900",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BRB,Barbados,Year,2020,true,,,,,,,,,,,,,1406,,,,,,"1,406",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2020,true,,,,,,,,,,,,,1422782,,,,,,"1,422,782",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2020,true,,,,,,,,,,,,,1448,,,,,,"1,448",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BLZ,Belize,Year,2020,true,,,,,,,,,,,,,1490,,,,,,"1,490",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2020,true,,,,,,,,,,,,,1492151,,,,,,"1,492,151",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,IND,India,Year,2020,true,,,,,,,,,,,,,1494399,,,,,,"1,494,399",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2020,true,,,,,,,,,,,,,1686,,,,,,"1,686",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2020,true,,,,,,,,,,,,,1790,,,,,,"1,790",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,SUR,Suriname,Year,2020,true,,,,,,,,,,,,,1852,,,,,,"1,852",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2020,true,,,,,,,,,,,,,1854,,,,,,"1,854",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2020,true,,,,,,,,,,,,,10352,,,,,,"10,352",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,GRC,Greece,Year,2020,true,,,,,,,,,,,,,11129,,,,,,"11,129",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2020,true,,,,,,,,,,,,,11784,,,,,,"11,784",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,HND,Honduras,Year,2020,true,,,,,,,,,,,,,11956,,,,,,"11,956",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,AGO,Angola,Year,2020,true,,,,,,,,,,,,,111188,,,,,,"111,188",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,COL,Colombia,Year,2020,true,,,,,,,,,,,,,115991,,,,,,"115,991",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2020,true,,,,,,,,,,,,,12155,,,,,,"12,155",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ROU,Romania,Year,2020,true,,,,,,,,,,,,,12904,,,,,,"12,904",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,HTI,Haiti,Year,2020,true,,,,,,,,,,,,,122224,,,,,,"122,224",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ITA,Italy,Year,2020,true,,,,,,,,,,,,,124775,,,,,,"124,775",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2020,true,,,,,,,,,,,,,128,,,,,,128,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2020,true,,,,,,,,,,,,,13,,,,,,13,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,JAM,Jamaica,Year,2020,true,,,,,,,,,,,,,13082,,,,,,"13,082",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2020,true,,,,,,,,,,,,,13843,,,,,,"13,843",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ESP,Spain,Year,2020,true,,,,,,,,,,,,,130428,,,,,,"130,428",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2020,true,,,,,,,,,,,,,142906,,,,,,"142,906",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,UKR,Ukraine,Year,2020,true,,,,,,,,,,,,,146488,,,,,,"146,488",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2020,true,,,,,,,,,,,,,15419,,,,,,"15,419",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,DZA,Algeria,Year,2020,true,,,,,,,,,,,,,15564,,,,,,"15,564",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,PAN,Panama,Year,2020,true,,,,,,,,,,,,,16043,,,,,,"16,043",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2020,true,,,,,,,,,,,,,16527,,,,,,"16,527",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,FRA,France,Year,2020,true,,,,,,,,,,,,,160235,,,,,,"160,235",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2020,true,,,,,,,,,,,,,161,,,,,,161,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2020,true,,,,,,,,,,,,,169000,,,,,,"169,000",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,LBR,Liberia,Year,2020,true,,,,,,,,,,,,,18515,,,,,,"18,515",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BLR,Belarus,Year,2020,true,,,,,,,,,,,,,18765,,,,,,"18,765",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,NAM,Namibia,Year,2020,true,,,,,,,,,,,,,181696,,,,,,"181,696",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2020,true,,,,,,,,,,,,,184,,,,,,184,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2020,true,,,,,,,,,,,,,184697,,,,,,"184,697",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,MEX,Mexico,Year,2020,true,,,,,,,,,,,,,189643,,,,,,"189,643",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2020,true,,,,,,,,,,,,,19827,,,,,,"19,827",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MNE,Montenegro,Year,2020,true,,,,,,,,,,,,,196,,,,,,196,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2020,true,,,,,,,,,,,,,2063,,,,,,"2,063",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2020,true,,,,,,,,,,,,,2167,,,,,,"2,167",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SRB,Serbia,Year,2020,true,,,,,,,,,,,,,2172,,,,,,"2,172",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ARM,Armenia,Year,2020,true,,,,,,,,,,,,,2305,,,,,,"2,305",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2020,true,,,,,,,,,,,,,2556,,,,,,"2,556",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2020,true,,,,,,,,,,,,,2839,,,,,,"2,839",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2020,true,,,,,,,,,,,,,2927,,,,,,"2,927",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MUS,Mauritius,Year,2020,true,,,,,,,,,,,,,2936,,,,,,"2,936",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BHS,Bahamas,Year,2020,true,,,,,,,,,,,,,2992,,,,,,"2,992",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2020,true,,,,,,,,,,,,,20176,,,,,,"20,176",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,NLD,Netherlands,Year,2020,true,,,,,,,,,,,,,20958,,,,,,"20,958",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2020,true,,,,,,,,,,,,,204286,,,,,,"204,286",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2020,true,,,,,,,,,,,,,204711,,,,,,"204,711",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GHA,Ghana,Year,2020,true,,,,,,,,,,,,,208811,,,,,,"208,811",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2020,true,,,,,,,,,,,,,21113,,,,,,"21,113",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,NER,Niger,Year,2020,true,,,,,,,,,,,,,21330,,,,,,"21,330",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2020,true,,,,,,,,,,,,,21967,,,,,,"21,967",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2020,true,,,,,,,,,,,,,22,,,,,,22,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2020,true,,,,,,,,,,,,,223,,,,,,223,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,LSO,Lesotho,Year,2020,true,,,,,,,,,,,,,232984,,,,,,"232,984",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GAB,Gabon,Year,2020,true,,,,,,,,,,,,,24208,,,,,,"24,208",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2020,true,,,,,,,,,,,,,24362,,,,,,"24,362",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CUB,Cuba,Year,2020,true,,,,,,,,,,,,,24863,,,,,,"24,863",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2020,true,,,,,,,,,,,,,241,,,,,,241,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2020,true,,,,,,,,,,,,,25134,,,,,,"25,134",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2020,true,,,,,,,,,,,,,25703,,,,,,"25,703",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,COG,Congo,Year,2020,true,,,,,,,,,,,,,27371,,,,,,"27,371",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2020,true,,,,,,,,,,,,,270,,,,,,270,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2020,true,,,,,,,,,,,,,280,,,,,,280,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2020,true,,,,,,,,,,,,,280848,,,,,,"280,848",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ISL,Iceland,Year,2020,true,,,,,,,,,,,,,286,,,,,,286,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2020,true,,,,,,,,,,,,,3257,,,,,,"3,257",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2020,true,,,,,,,,,,,,,3384,,,,,,"3,384",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2020,true,,,,,,,,,,,,,3696,,,,,,"3,696",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SEN,Senegal,Year,2020,true,,,,,,,,,,,,,30431,,,,,,"30,431",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2020,true,,,,,,,,,,,,,31021,,,,,,"31,021",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BWA,Botswana,Year,2020,true,,,,,,,,,,,,,324931,,,,,,"324,931",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2020,true,,,,,,,,,,,,,34121,,,,,,"34,121",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2020,true,,,,,,,,,,,,,344,,,,,,344,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2020,true,,,,,,,,,,,,,35840,,,,,,"35,840",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,PRT,Portugal,Year,2020,true,,,,,,,,,,,,,36075,,,,,,"36,075",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2020,true,,,,,,,,,,,,,367871,,,,,,"367,871",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2020,true,,,,,,,,,,,,,376617,,,,,,"376,617",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2020,true,,,,,,,,,,,,,38003,,,,,,"38,003",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2020,true,,,,,,,,,,,,,38270,,,,,,"38,270",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2020,true,,,,,,,,,,,,,394598,,,,,,"394,598",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,NOR,Norway,Year,2020,true,,,,,,,,,,,,,4176,,,,,,"4,176",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2020,true,,,,,,,,,,,,,4442,,,,,,"4,442",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,EST,Estonia,Year,2020,true,,,,,,,,,,,,,4675,,,,,,"4,675",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2020,true,,,,,,,,,,,,,42447,,,,,,"42,447",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2020,true,,,,,,,,,,,,,46931,,,,,,"46,931",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2020,true,,,,,,,,,,,,,461,,,,,,461,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2020,true,,,,,,,,,,,,,47977,,,,,,"47,977",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2020,true,,,,,,,,,,,,,483127,,,,,,"483,127",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2020,true,,,,,,,,,,,,,5043,,,,,,"5,043",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,GEO,Georgia,Year,2020,true,,,,,,,,,,,,,5442,,,,,,"5,442",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2020,true,,,,,,,,,,,,,5599664,,,,,,"5,599,664",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2020,true,,,,,,,,,,,,,5618,,,,,,"5,618",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2020,true,,,,,,,,,,,,,5775,,,,,,"5,775",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2020,true,,,,,,,,,,,,,5885,,,,,,"5,885",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,GUY,Guyana,Year,2020,true,,,,,,,,,,,,,5889,,,,,,"5,889",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2020,true,,,,,,,,,,,,,50805,,,,,,"50,805",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2020,true,,,,,,,,,,,,,506,,,,,,506,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2020,true,,,,,,,,,,,,,517,,,,,,517,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BEN,Benin,Year,2020,true,,,,,,,,,,,,,52497,,,,,,"52,497",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CHL,Chile,Year,2020,true,,,,,,,,,,,,,54153,,,,,,"54,153",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GIN,Guinea,Year,2020,true,,,,,,,,,,,,,55993,,,,,,"55,993",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2020,true,,,,,,,,,,,,,56038,,,,,,"56,038",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MLI,Mali,Year,2020,true,,,,,,,,,,,,,56901,,,,,,"56,901",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2020,true,,,,,,,,,,,,,598,,,,,,598,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2020,true,,,,,,,,,,,,,6015,,,,,,"6,015",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,DNK,Denmark,Year,2020,true,,,,,,,,,,,,,6023,,,,,,"6,023",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,IRL,Ireland,Year,2020,true,,,,,,,,,,,,,6673,,,,,,"6,673",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2020,true,,,,,,,,,,,,,6810,,,,,,"6,810",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2020,true,,,,,,,,,,,,,615099,,,,,,"615,099",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2020,true,,,,,,,,,,,,,62310,,,,,,"62,310",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2020,true,,,,,,,,,,,,,626,,,,,,626,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BRA,Brazil,Year,2020,true,,,,,,,,,,,,,648971,,,,,,"648,971",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ALB,Albania,Year,2020,true,,,,,,,,,,,,,678,,,,,,678,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2020,true,,,,,,,,,,,,,7253,,,,,,"7,253",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2020,true,,,,,,,,,,,,,7269,,,,,,"7,269",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2020,true,,,,,,,,,,,,,7960,,,,,,"7,960",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2020,true,,,,,,,,,,,,,70156,,,,,,"70,156",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SVN,Slovenia,Year,2020,true,,,,,,,,,,,,,709,,,,,,709,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,PER,Peru,Year,2020,true,,,,,,,,,,,,,71557,,,,,,"71,557",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BDI,Burundi,Year,2020,true,,,,,,,,,,,,,73033,,,,,,"73,033",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,TCD,Chad,Year,2020,true,,,,,,,,,,,,,77017,,,,,,"77,017",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,DEU,Germany,Year,2020,true,,,,,,,,,,,,,79748,,,,,,"79,748",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2020,true,,,,,,,,,,,,,8189,,,,,,"8,189",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GMB,Gambia,Year,2020,true,,,,,,,,,,,,,8286,,,,,,"8,286",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2020,true,,,,,,,,,,,,,8308,,,,,,"8,308",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,TGO,Togo,Year,2020,true,,,,,,,,,,,,,80160,,,,,,"80,160",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,COM,Comoros,Year,2020,true,,,,,,,,,,,,,85,,,,,,85,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MWI,Malawi,Year,2020,true,,,,,,,,,,,,,853032,,,,,,"853,032",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2020,true,,,,,,,,,,,,,871,,,,,,871,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2020,true,,,,,,,,,,,,,9078,,,,,,"9,078",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,URY,Uruguay,Year,2020,true,,,,,,,,,,,,,9324,,,,,,"9,324",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2020,true,,,,,,,,,,,,,9778,,,,,,"9,778",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,ARG,Argentina,Year,2020,true,,,,,,,,,,,,,90770,,,,,,"90,770",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,CHN,China,Year,2020,true,,,,,,,,,,,,,978138,,,,,,"978,138",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,AUT,Austria,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BEL,Belgium,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CAN,Canada,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,CYP,Cyprus,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,CZE,Czechia,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,FIN,Finland,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,HUN,Hungary,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ISR,Israel,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,LVA,Latvia,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,LTU,Lithuania,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MLT,Malta,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,POL,Poland,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SVK,Slovakia,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SWE,Sweden,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,CHE,Switzerland,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,TUR,Turkey,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,USA,United States of America,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BLZ,Belize,Year,2015,false,,,,,,,,,,,,,1128,,,,,,"1,128",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BRB,Barbados,Year,2015,false,,,,,,,,,,,,,1139,,,,,,"1,139",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2015,false,,,,,,,,,,,,,1234,,,,,,"1,234",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2015,false,,,,,,,,,,,,,1355,,,,,,"1,355",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2015,false,,,,,,,,,,,,,1397,,,,,,"1,397",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SRB,Serbia,Year,2015,false,,,,,,,,,,,,,1400,,,,,,"1,400",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2015,false,,,,,,,,,,,,,1483,,,,,,"1,483",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2015,false,,,,,,,,,,,,,1945,,,,,,"1,945",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,JAM,Jamaica,Year,2015,false,,,,,,,,,,,,,10055,,,,,,"10,055",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,HND,Honduras,Year,2015,false,,,,,,,,,,,,,10457,,,,,,"10,457",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ROU,Romania,Year,2015,false,,,,,,,,,,,,,10551,,,,,,"10,551",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2015,false,,,,,,,,,,,,,10803,,,,,,"10,803",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2015,false,,,,,,,,,,,,,10830,,,,,,"10,830",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2015,false,,,,,,,,,,,,,100,,,,,,100,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2015,false,,,,,,,,,,,,,106320,,,,,,"106,320",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ESP,Spain,Year,2015,false,,,,,,,,,,,,,107146,,,,,,"107,146",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2015,false,,,,,,,,,,,,,11922,,,,,,"11,922",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2015,false,,,,,,,,,,,,,111482,,,,,,"111,482",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2015,false,,,,,,,,,,,,,115,,,,,,115,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2015,false,,,,,,,,,,,,,117,,,,,,117,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,MEX,Mexico,Year,2015,false,,,,,,,,,,,,,117557,,,,,,"117,557",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2015,false,,,,,,,,,,,,,12256,,,,,,"12,256",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,NER,Niger,Year,2015,false,,,,,,,,,,,,,12887,,,,,,"12,887",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2015,false,,,,,,,,,,,,,121762,,,,,,"121,762",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2015,false,,,,,,,,,,,,,13100,,,,,,"13,100",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,FRA,France,Year,2015,false,,,,,,,,,,,,,130184,,,,,,"130,184",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,NAM,Namibia,Year,2015,false,,,,,,,,,,,,,130272,,,,,,"130,272",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2015,false,,,,,,,,,,,,,133958,,,,,,"133,958",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2015,false,,,,,,,,,,,,,14196,,,,,,"14,196",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2015,false,,,,,,,,,,,,,147,,,,,,147,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CUB,Cuba,Year,2015,false,,,,,,,,,,,,,15241,,,,,,"15,241",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2015,false,,,,,,,,,,,,,15491,,,,,,"15,491",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,LSO,Lesotho,Year,2015,false,,,,,,,,,,,,,153459,,,,,,"153,459",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2015,false,,,,,,,,,,,,,158002,,,,,,"158,002",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2015,false,,,,,,,,,,,,,159315,,,,,,"159,315",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2015,false,,,,,,,,,,,,,16370,,,,,,"16,370",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2015,false,,,,,,,,,,,,,168249,,,,,,"168,249",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,NLD,Netherlands,Year,2015,false,,,,,,,,,,,,,18076,,,,,,"18,076",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SEN,Senegal,Year,2015,false,,,,,,,,,,,,,18375,,,,,,"18,375",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2015,false,,,,,,,,,,,,,18573,,,,,,"18,573",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2015,false,,,,,,,,,,,,,184,,,,,,184,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ISL,Iceland,Year,2015,false,,,,,,,,,,,,,188,,,,,,188,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2015,false,,,,,,,,,,,,,19427,,,,,,"19,427",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2015,false,,,,,,,,,,,,,198,,,,,,198,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2015,false,,,,,,,,,,,,,2076,,,,,,"2,076",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2015,false,,,,,,,,,,,,,2082,,,,,,"2,082",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2015,false,,,,,,,,,,,,,2220,,,,,,"2,220",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,SUR,Suriname,Year,2015,false,,,,,,,,,,,,,2302,,,,,,"2,302",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2015,false,,,,,,,,,,,,,2310,,,,,,"2,310",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BHS,Bahamas,Year,2015,false,,,,,,,,,,,,,2319,,,,,,"2,319",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2015,false,,,,,,,,,,,,,2374,,,,,,"2,374",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2015,false,,,,,,,,,,,,,2458,,,,,,"2,458",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MUS,Mauritius,Year,2015,false,,,,,,,,,,,,,2521,,,,,,"2,521",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2015,false,,,,,,,,,,,,,2887,,,,,,"2,887",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2015,false,,,,,,,,,,,,,201,,,,,,201,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2015,false,,,,,,,,,,,,,202,,,,,,202,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2015,false,,,,,,,,,,,,,21,,,,,,21,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2015,false,,,,,,,,,,,,,21,,,,,,21,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2015,false,,,,,,,,,,,,,21198,,,,,,"21,198",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2015,false,,,,,,,,,,,,,216108,,,,,,"216,108",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2015,false,,,,,,,,,,,,,25235,,,,,,"25,235",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,COG,Congo,Year,2015,false,,,,,,,,,,,,,25246,,,,,,"25,246",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2015,false,,,,,,,,,,,,,25583,,,,,,"25,583",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BWA,Botswana,Year,2015,false,,,,,,,,,,,,,255119,,,,,,"255,119",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2015,false,,,,,,,,,,,,,265,,,,,,265,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2015,false,,,,,,,,,,,,,267,,,,,,267,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GAB,Gabon,Year,2015,false,,,,,,,,,,,,,27037,,,,,,"27,037",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CHL,Chile,Year,2015,false,,,,,,,,,,,,,28081,,,,,,"28,081",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2015,false,,,,,,,,,,,,,28303,,,,,,"28,303",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,PRT,Portugal,Year,2015,false,,,,,,,,,,,,,29785,,,,,,"29,785",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2015,false,,,,,,,,,,,,,292449,,,,,,"292,449",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2015,false,,,,,,,,,,,,,3,,,,,,3,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,GEO,Georgia,Year,2015,false,,,,,,,,,,,,,3044,,,,,,"3,044",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2015,false,,,,,,,,,,,,,3046,,,,,,"3,046",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2015,false,,,,,,,,,,,,,3350,,,,,,"3,350",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,EST,Estonia,Year,2015,false,,,,,,,,,,,,,3519,,,,,,"3,519",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,NOR,Norway,Year,2015,false,,,,,,,,,,,,,3549,,,,,,"3,549",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2015,false,,,,,,,,,,,,,3663573,,,,,,"3,663,573",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2015,false,,,,,,,,,,,,,3850,,,,,,"3,850",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2015,false,,,,,,,,,,,,,3879,,,,,,"3,879",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BEN,Benin,Year,2015,false,,,,,,,,,,,,,33602,,,,,,"33,602",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GIN,Guinea,Year,2015,false,,,,,,,,,,,,,34774,,,,,,"34,774",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MLI,Mali,Year,2015,false,,,,,,,,,,,,,34974,,,,,,"34,974",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2015,false,,,,,,,,,,,,,350,,,,,,350,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,PER,Peru,Year,2015,false,,,,,,,,,,,,,37201,,,,,,"37,201",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2015,false,,,,,,,,,,,,,384528,,,,,,"384,528",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,CHN,China,Year,2015,false,,,,,,,,,,,,,386139,,,,,,"386,139",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2015,false,,,,,,,,,,,,,4325,,,,,,"4,325",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2015,false,,,,,,,,,,,,,4388,,,,,,"4,388",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,IRL,Ireland,Year,2015,false,,,,,,,,,,,,,4536,,,,,,"4,536",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,GUY,Guyana,Year,2015,false,,,,,,,,,,,,,4538,,,,,,"4,538",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2015,false,,,,,,,,,,,,,4577,,,,,,"4,577",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,DNK,Denmark,Year,2015,false,,,,,,,,,,,,,4947,,,,,,"4,947",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,COM,Comoros,Year,2015,false,,,,,,,,,,,,,40,,,,,,40,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BDI,Burundi,Year,2015,false,,,,,,,,,,,,,42169,,,,,,"42,169",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,TGO,Togo,Year,2015,false,,,,,,,,,,,,,43603,,,,,,"43,603",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ALB,Albania,Year,2015,false,,,,,,,,,,,,,439,,,,,,439,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SVN,Slovenia,Year,2015,false,,,,,,,,,,,,,461,,,,,,461,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BRA,Brazil,Year,2015,false,,,,,,,,,,,,,484494,,,,,,"484,494",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GMB,Gambia,Year,2015,false,,,,,,,,,,,,,5022,,,,,,"5,022",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2015,false,,,,,,,,,,,,,5274,,,,,,"5,274",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2015,false,,,,,,,,,,,,,5499,,,,,,"5,499",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2015,false,,,,,,,,,,,,,5623,,,,,,"5,623",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2015,false,,,,,,,,,,,,,52248,,,,,,"52,248",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2015,false,,,,,,,,,,,,,52454,,,,,,"52,454",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2015,false,,,,,,,,,,,,,527,,,,,,527,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,TCD,Chad,Year,2015,false,,,,,,,,,,,,,57316,,,,,,"57,316",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2015,false,,,,,,,,,,,,,58303,,,,,,"58,303",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MWI,Malawi,Year,2015,false,,,,,,,,,,,,,595634,,,,,,"595,634",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,URY,Uruguay,Year,2015,false,,,,,,,,,,,,,6116,,,,,,"6,116",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2015,false,,,,,,,,,,,,,6286,,,,,,"6,286",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2015,false,,,,,,,,,,,,,6564,,,,,,"6,564",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2015,false,,,,,,,,,,,,,6720,,,,,,"6,720",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,DEU,Germany,Year,2015,false,,,,,,,,,,,,,61491,,,,,,"61,491",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2015,false,,,,,,,,,,,,,62,,,,,,62,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2015,false,,,,,,,,,,,,,63199,,,,,,"63,199",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,UKR,Ukraine,Year,2015,false,,,,,,,,,,,,,66113,,,,,,"66,113",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,COL,Colombia,Year,2015,false,,,,,,,,,,,,,66889,,,,,,"66,889",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,HTI,Haiti,Year,2015,false,,,,,,,,,,,,,68814,,,,,,"68,814",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,ARG,Argentina,Year,2015,false,,,,,,,,,,,,,69840,,,,,,"69,840",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2015,false,,,,,,,,,,,,,7015,,,,,,"7,015",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,LBR,Liberia,Year,2015,false,,,,,,,,,,,,,7391,,,,,,"7,391",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BLR,Belarus,Year,2015,false,,,,,,,,,,,,,7392,,,,,,"7,392",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,DZA,Algeria,Year,2015,false,,,,,,,,,,,,,7718,,,,,,"7,718",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,GRC,Greece,Year,2015,false,,,,,,,,,,,,,7822,,,,,,"7,822",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,AGO,Angola,Year,2015,false,,,,,,,,,,,,,71541,,,,,,"71,541",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,UGA,Uganda,Year,2015,false,,,,,,,,,,,,,718695,,,,,,"718,695",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2015,false,,,,,,,,,,,,,734,,,,,,734,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2015,false,,,,,,,,,,,,,744072,,,,,,"744,072",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2015,false,,,,,,,,,,,,,754682,,,,,,"754,682",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2015,false,,,,,,,,,,,,,758646,,,,,,"758,646",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2015,false,,,,,,,,,,,,,787541,,,,,,"787,541",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2015,false,,,,,,,,,,,,,8431,,,,,,"8,431",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2015,false,,,,,,,,,,,,,8926,,,,,,"8,926",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2015,false,,,,,,,,,,,,,803,,,,,,803,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GHA,Ghana,Year,2015,false,,,,,,,,,,,,,81987,,,,,,"81,987",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2015,false,,,,,,,,,,,,,829,,,,,,829,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2015,false,,,,,,,,,,,,,837523,,,,,,"837,523",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,HRV,Croatia,Year,2015,false,,,,,,,,,,,,,880,,,,,,880,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,KEN,Kenya,Year,2015,false,,,,,,,,,,,,,897644,,,,,,"897,644",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2015,false,,,,,,,,,,,,,9,,,,,,9,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2015,false,,,,,,,,,,,,,9480,,,,,,"9,480",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,PAN,Panama,Year,2015,false,,,,,,,,,,,,,9659,,,,,,"9,659",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2015,false,,,,,,,,,,,,,910,,,,,,910,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MNE,Montenegro,Year,2015,false,,,,,,,,,,,,,92,,,,,,92,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,IND,India,Year,2015,false,,,,,,,,,,,,,940187,,,,,,"940,187",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ARM,Armenia,Year,2015,false,,,,,,,,,,,,,941,,,,,,941,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ITA,Italy,Year,2015,false,,,,,,,,,,,,,95967,,,,,,"95,967",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2015,false,,,,,,,,,,,,,954,,,,,,954,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,AUT,Austria,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BEL,Belgium,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CAN,Canada,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,CYP,Cyprus,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,CZE,Czechia,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,FIN,Finland,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,HUN,Hungary,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ISR,Israel,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,LVA,Latvia,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,LTU,Lithuania,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MLT,Malta,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,POL,Poland,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SVK,Slovakia,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SWE,Sweden,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,CHE,Switzerland,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,TUR,Turkey,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,USA,United States of America,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2010,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2010,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2010,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,SUR,Suriname,Year,2010,false,,,,,,,,,,,,,1121,,,,,,"1,121",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2010,false,,,,,,,,,,,,,1237,,,,,,"1,237",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2010,false,,,,,,,,,,,,,1239,,,,,,"1,239",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2010,false,,,,,,,,,,,,,1261,,,,,,"1,261",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2010,false,,,,,,,,,,,,,1294,,,,,,"1,294",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2010,false,,,,,,,,,,,,,1343661,,,,,,"1,343,661",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2010,false,,,,,,,,,,,,,1348,,,,,,"1,348",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2010,false,,,,,,,,,,,,,1358,,,,,,"1,358",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BHS,Bahamas,Year,2010,false,,,,,,,,,,,,,1362,,,,,,"1,362",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2010,false,,,,,,,,,,,,,1619,,,,,,"1,619",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2010,false,,,,,,,,,,,,,1684,,,,,,"1,684",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2010,false,,,,,,,,,,,,,1690,,,,,,"1,690",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2010,false,,,,,,,,,,,,,1726,,,,,,"1,726",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,EST,Estonia,Year,2010,false,,,,,,,,,,,,,1809,,,,,,"1,809",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2010,false,,,,,,,,,,,,,1906,,,,,,"1,906",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,FRA,France,Year,2010,false,,,,,,,,,,,,,104759,,,,,,"104,759",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2010,false,,,,,,,,,,,,,105,,,,,,105,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GAB,Gabon,Year,2010,false,,,,,,,,,,,,,11013,,,,,,"11,013",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SEN,Senegal,Year,2010,false,,,,,,,,,,,,,11845,,,,,,"11,845",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2010,false,,,,,,,,,,,,,11963,,,,,,"11,963",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2010,false,,,,,,,,,,,,,12053,,,,,,"12,053",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,NLD,Netherlands,Year,2010,false,,,,,,,,,,,,,12746,,,,,,"12,746",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2010,false,,,,,,,,,,,,,13091,,,,,,"13,091",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ALB,Albania,Year,2010,false,,,,,,,,,,,,,131,,,,,,131,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ISL,Iceland,Year,2010,false,,,,,,,,,,,,,137,,,,,,137,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2010,false,,,,,,,,,,,,,139,,,,,,139,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CHL,Chile,Year,2010,false,,,,,,,,,,,,,14356,,,,,,"14,356",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2010,false,,,,,,,,,,,,,14823,,,,,,"14,823",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,COG,Congo,Year,2010,false,,,,,,,,,,,,,14870,,,,,,"14,870",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2010,false,,,,,,,,,,,,,15287,,,,,,"15,287",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BWA,Botswana,Year,2010,false,,,,,,,,,,,,,159350,,,,,,"159,350",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,COM,Comoros,Year,2010,false,,,,,,,,,,,,,17,,,,,,17,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2010,false,,,,,,,,,,,,,181,,,,,,181,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GIN,Guinea,Year,2010,false,,,,,,,,,,,,,19883,,,,,,"19,883",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2010,false,,,,,,,,,,,,,2,,,,,,2,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GMB,Gambia,Year,2010,false,,,,,,,,,,,,,2030,,,,,,"2,030",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2010,false,,,,,,,,,,,,,2034,,,,,,"2,034",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2010,false,,,,,,,,,,,,,2122,,,,,,"2,122",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,DZA,Algeria,Year,2010,false,,,,,,,,,,,,,2221,,,,,,"2,221",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2010,false,,,,,,,,,,,,,2256,,,,,,"2,256",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2010,false,,,,,,,,,,,,,2291,,,,,,"2,291",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BLR,Belarus,Year,2010,false,,,,,,,,,,,,,2615,,,,,,"2,615",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,NOR,Norway,Year,2010,false,,,,,,,,,,,,,2814,,,,,,"2,814",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,IRL,Ireland,Year,2010,false,,,,,,,,,,,,,2861,,,,,,"2,861",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2010,false,,,,,,,,,,,,,2955,,,,,,"2,955",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,PER,Peru,Year,2010,false,,,,,,,,,,,,,20064,,,,,,"20,064",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2010,false,,,,,,,,,,,,,20090,,,,,,"20,090",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BEN,Benin,Year,2010,false,,,,,,,,,,,,,20108,,,,,,"20,108",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,PRT,Portugal,Year,2010,false,,,,,,,,,,,,,20150,,,,,,"20,150",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2010,false,,,,,,,,,,,,,208,,,,,,208,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2010,false,,,,,,,,,,,,,210729,,,,,,"210,729",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2010,false,,,,,,,,,,,,,218991,,,,,,"218,991",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2010,false,,,,,,,,,,,,,22,,,,,,22,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,AGO,Angola,Year,2010,false,,,,,,,,,,,,,22036,,,,,,"22,036",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,COL,Colombia,Year,2010,false,,,,,,,,,,,,,22588,,,,,,"22,588",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,UKR,Ukraine,Year,2010,false,,,,,,,,,,,,,22697,,,,,,"22,697",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BDI,Burundi,Year,2010,false,,,,,,,,,,,,,22735,,,,,,"22,735",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2010,false,,,,,,,,,,,,,222333,,,,,,"222,333",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,TGO,Togo,Year,2010,false,,,,,,,,,,,,,23278,,,,,,"23,278",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,UGA,Uganda,Year,2010,false,,,,,,,,,,,,,236956,,,,,,"236,956",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MLI,Mali,Year,2010,false,,,,,,,,,,,,,24778,,,,,,"24,778",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2010,false,,,,,,,,,,,,,244225,,,,,,"244,225",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2010,false,,,,,,,,,,,,,25,,,,,,25,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ARM,Armenia,Year,2010,false,,,,,,,,,,,,,250,,,,,,250,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MWI,Malawi,Year,2010,false,,,,,,,,,,,,,250953,,,,,,"250,953",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SVN,Slovenia,Year,2010,false,,,,,,,,,,,,,256,,,,,,256,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2010,false,,,,,,,,,,,,,265,,,,,,265,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2010,false,,,,,,,,,,,,,266,,,,,,266,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,HTI,Haiti,Year,2010,false,,,,,,,,,,,,,29171,,,,,,"29,171",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2010,false,,,,,,,,,,,,,29826,,,,,,"29,826",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,URY,Uruguay,Year,2010,false,,,,,,,,,,,,,3028,,,,,,"3,028",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,GUY,Guyana,Year,2010,false,,,,,,,,,,,,,3059,,,,,,"3,059",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2010,false,,,,,,,,,,,,,3081,,,,,,"3,081",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2010,false,,,,,,,,,,,,,3114,,,,,,"3,114",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2010,false,,,,,,,,,,,,,3299,,,,,,"3,299",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2010,false,,,,,,,,,,,,,3345,,,,,,"3,345",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,DNK,Denmark,Year,2010,false,,,,,,,,,,,,,3576,,,,,,"3,576",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2010,false,,,,,,,,,,,,,3813,,,,,,"3,813",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2010,false,,,,,,,,,,,,,31543,,,,,,"31,543",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,TCD,Chad,Year,2010,false,,,,,,,,,,,,,31919,,,,,,"31,919",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2010,false,,,,,,,,,,,,,344789,,,,,,"344,789",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BRA,Brazil,Year,2010,false,,,,,,,,,,,,,346398,,,,,,"346,398",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2010,false,,,,,,,,,,,,,349076,,,,,,"349,076",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2010,false,,,,,,,,,,,,,356,,,,,,356,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2010,false,,,,,,,,,,,,,363261,,,,,,"363,261",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2010,false,,,,,,,,,,,,,386,,,,,,386,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2010,false,,,,,,,,,,,,,39255,,,,,,"39,255",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,LBR,Liberia,Year,2010,false,,,,,,,,,,,,,4412,,,,,,"4,412",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,GRC,Greece,Year,2010,false,,,,,,,,,,,,,4486,,,,,,"4,486",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2010,false,,,,,,,,,,,,,4571,,,,,,"4,571",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2010,false,,,,,,,,,,,,,4699,,,,,,"4,699",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2010,false,,,,,,,,,,,,,4867,,,,,,"4,867",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2010,false,,,,,,,,,,,,,40515,,,,,,"40,515",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GHA,Ghana,Year,2010,false,,,,,,,,,,,,,40575,,,,,,"40,575",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2010,false,,,,,,,,,,,,,412,,,,,,412,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,IND,India,Year,2010,false,,,,,,,,,,,,,412125,,,,,,"412,125",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2010,false,,,,,,,,,,,,,428,,,,,,428,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2010,false,,,,,,,,,,,,,43790,,,,,,"43,790",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,KEN,Kenya,Year,2010,false,,,,,,,,,,,,,432622,,,,,,"432,622",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2010,false,,,,,,,,,,,,,437,,,,,,437,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MNE,Montenegro,Year,2010,false,,,,,,,,,,,,,44,,,,,,44,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,DEU,Germany,Year,2010,false,,,,,,,,,,,,,45252,,,,,,"45,252",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2010,false,,,,,,,,,,,,,454,,,,,,454,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,ARG,Argentina,Year,2010,false,,,,,,,,,,,,,46566,,,,,,"46,566",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2010,false,,,,,,,,,,,,,48,,,,,,48,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,HRV,Croatia,Year,2010,false,,,,,,,,,,,,,489,,,,,,489,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2010,false,,,,,,,,,,,,,49,,,,,,49,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2010,false,,,,,,,,,,,,,49428,,,,,,"49,428",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2010,false,,,,,,,,,,,,,5,,,,,,5,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,PAN,Panama,Year,2010,false,,,,,,,,,,,,,5406,,,,,,"5,406",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,JAM,Jamaica,Year,2010,false,,,,,,,,,,,,,5826,,,,,,"5,826",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2010,false,,,,,,,,,,,,,5978,,,,,,"5,978",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2010,false,,,,,,,,,,,,,501,,,,,,501,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2010,false,,,,,,,,,,,,,51,,,,,,51,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2010,false,,,,,,,,,,,,,537,,,,,,537,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2010,false,,,,,,,,,,,,,579,,,,,,579,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2010,false,,,,,,,,,,,,,587,,,,,,587,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2010,false,,,,,,,,,,,,,593,,,,,,593,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CUB,Cuba,Year,2010,false,,,,,,,,,,,,,6001,,,,,,"6,001",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2010,false,,,,,,,,,,,,,60,,,,,,60,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2010,false,,,,,,,,,,,,,60757,,,,,,"60,757",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2010,false,,,,,,,,,,,,,62,,,,,,62,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,MEX,Mexico,Year,2010,false,,,,,,,,,,,,,64987,,,,,,"64,987",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2010,false,,,,,,,,,,,,,65,,,,,,65,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MUS,Mauritius,Year,2010,false,,,,,,,,,,,,,654,,,,,,654,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2010,false,,,,,,,,,,,,,7168,,,,,,"7,168",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ROU,Romania,Year,2010,false,,,,,,,,,,,,,7276,,,,,,"7,276",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,NER,Niger,Year,2010,false,,,,,,,,,,,,,7296,,,,,,"7,296",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2010,false,,,,,,,,,,,,,7560,,,,,,"7,560",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,HND,Honduras,Year,2010,false,,,,,,,,,,,,,7718,,,,,,"7,718",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2010,false,,,,,,,,,,,,,71573,,,,,,"71,573",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ITA,Italy,Year,2010,false,,,,,,,,,,,,,72154,,,,,,"72,154",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,NAM,Namibia,Year,2010,false,,,,,,,,,,,,,77453,,,,,,"77,453",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BLZ,Belize,Year,2010,false,,,,,,,,,,,,,779,,,,,,779,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2010,false,,,,,,,,,,,,,79,,,,,,79,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2010,false,,,,,,,,,,,,,8482,,,,,,"8,482",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2010,false,,,,,,,,,,,,,81458,,,,,,"81,458",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,GEO,Georgia,Year,2010,false,,,,,,,,,,,,,830,,,,,,830,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,CHN,China,Year,2010,false,,,,,,,,,,,,,87950,,,,,,"87,950",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BRB,Barbados,Year,2010,false,,,,,,,,,,,,,873,,,,,,873,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ESP,Spain,Year,2010,false,,,,,,,,,,,,,88044,,,,,,"88,044",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2010,false,,,,,,,,,,,,,889,,,,,,889,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2010,false,,,,,,,,,,,,,89283,,,,,,"89,283",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2010,false,,,,,,,,,,,,,89455,,,,,,"89,455",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SRB,Serbia,Year,2010,false,,,,,,,,,,,,,915,,,,,,915,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,LSO,Lesotho,Year,2010,false,,,,,,,,,,,,,94287,,,,,,"94,287",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2010,false,,,,,,,,,,,,,967,,,,,,967,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,AUT,Austria,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BEL,Belgium,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CAN,Canada,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,CYP,Cyprus,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,CZE,Czechia,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,FIN,Finland,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,HUN,Hungary,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ISR,Israel,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,LVA,Latvia,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,LTU,Lithuania,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MLT,Malta,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,POL,Poland,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SVK,Slovakia,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SWE,Sweden,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,CHE,Switzerland,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,TUR,Turkey,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,USA,United States of America,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2005,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BEN,Benin,Year,2005,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,COM,Comoros,Year,2005,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2005,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,LBR,Liberia,Year,2005,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2005,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2005,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2005,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2005,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2005,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2005,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2005,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2005,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2005,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2005,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BHS,Bahamas,Year,2005,false,,,,,,,,,,,,,1053,,,,,,"1,053",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2005,false,,,,,,,,,,,,,1106,,,,,,"1,106",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2005,false,,,,,,,,,,,,,1201,,,,,,"1,201",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2005,false,,,,,,,,,,,,,1201,,,,,,"1,201",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,GUY,Guyana,Year,2005,false,,,,,,,,,,,,,1202,,,,,,"1,202",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,URY,Uruguay,Year,2005,false,,,,,,,,,,,,,1472,,,,,,"1,472",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2005,false,,,,,,,,,,,,,1531,,,,,,"1,531",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,JAM,Jamaica,Year,2005,false,,,,,,,,,,,,,1557,,,,,,"1,557",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,TCD,Chad,Year,2005,false,,,,,,,,,,,,,1600,,,,,,"1,600",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2005,false,,,,,,,,,,,,,1647,,,,,,"1,647",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GIN,Guinea,Year,2005,false,,,,,,,,,,,,,1695,,,,,,"1,695",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,IRL,Ireland,Year,2005,false,,,,,,,,,,,,,1838,,,,,,"1,838",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CUB,Cuba,Year,2005,false,,,,,,,,,,,,,1876,,,,,,"1,876",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,NOR,Norway,Year,2005,false,,,,,,,,,,,,,1878,,,,,,"1,878",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2005,false,,,,,,,,,,,,,10315,,,,,,"10,315",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2005,false,,,,,,,,,,,,,100824,,,,,,"100,824",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2005,false,,,,,,,,,,,,,107286,,,,,,"107,286",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2005,false,,,,,,,,,,,,,11917,,,,,,"11,917",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2005,false,,,,,,,,,,,,,115,,,,,,115,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2005,false,,,,,,,,,,,,,117,,,,,,117,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2005,false,,,,,,,,,,,,,12,,,,,,12,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,PRT,Portugal,Year,2005,false,,,,,,,,,,,,,12549,,,,,,"12,549",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2005,false,,,,,,,,,,,,,13,,,,,,13,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,NAM,Namibia,Year,2005,false,,,,,,,,,,,,,13566,,,,,,"13,566",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2005,false,,,,,,,,,,,,,130,,,,,,130,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2005,false,,,,,,,,,,,,,140,,,,,,140,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,GEO,Georgia,Year,2005,false,,,,,,,,,,,,,145,,,,,,145,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2005,false,,,,,,,,,,,,,150,,,,,,150,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MUS,Mauritius,Year,2005,false,,,,,,,,,,,,,155,,,,,,155,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BLR,Belarus,Year,2005,false,,,,,,,,,,,,,161,,,,,,161,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2005,false,,,,,,,,,,,,,163,,,,,,163,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2005,false,,,,,,,,,,,,,163,,,,,,163,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2005,false,,,,,,,,,,,,,172,,,,,,172,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2005,false,,,,,,,,,,,,,178,,,,,,178,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MNE,Montenegro,Year,2005,false,,,,,,,,,,,,,18,,,,,,18,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2005,false,,,,,,,,,,,,,18743,,,,,,"18,743",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2005,false,,,,,,,,,,,,,18884,,,,,,"18,884",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2005,false,,,,,,,,,,,,,18955,,,,,,"18,955",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2005,false,,,,,,,,,,,,,19,,,,,,19,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2005,false,,,,,,,,,,,,,19071,,,,,,"19,071",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2005,false,,,,,,,,,,,,,19712,,,,,,"19,712",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,CHN,China,Year,2005,false,,,,,,,,,,,,,19785,,,,,,"19,785",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2005,false,,,,,,,,,,,,,197,,,,,,197,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2005,false,,,,,,,,,,,,,2,,,,,,2,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2005,false,,,,,,,,,,,,,2195,,,,,,"2,195",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2005,false,,,,,,,,,,,,,2273,,,,,,"2,273",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,DNK,Denmark,Year,2005,false,,,,,,,,,,,,,2402,,,,,,"2,402",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2005,false,,,,,,,,,,,,,2431,,,,,,"2,431",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,PAN,Panama,Year,2005,false,,,,,,,,,,,,,2437,,,,,,"2,437",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2005,false,,,,,,,,,,,,,2663,,,,,,"2,663",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2005,false,,,,,,,,,,,,,2697,,,,,,"2,697",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,COG,Congo,Year,2005,false,,,,,,,,,,,,,2788,,,,,,"2,788",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,GRC,Greece,Year,2005,false,,,,,,,,,,,,,2921,,,,,,"2,921",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MLI,Mali,Year,2005,false,,,,,,,,,,,,,2972,,,,,,"2,972",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2005,false,,,,,,,,,,,,,20,,,,,,20,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2005,false,,,,,,,,,,,,,20,,,,,,20,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SEN,Senegal,Year,2005,false,,,,,,,,,,,,,203,,,,,,203,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2005,false,,,,,,,,,,,,,208,,,,,,208,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BRA,Brazil,Year,2005,false,,,,,,,,,,,,,220275,,,,,,"220,275",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2005,false,,,,,,,,,,,,,23820,,,,,,"23,820",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2005,false,,,,,,,,,,,,,237,,,,,,237,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2005,false,,,,,,,,,,,,,254,,,,,,254,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,EST,Estonia,Year,2005,false,,,,,,,,,,,,,255,,,,,,255,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2005,false,,,,,,,,,,,,,258,,,,,,258,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BLZ,Belize,Year,2005,false,,,,,,,,,,,,,259,,,,,,259,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,ARG,Argentina,Year,2005,false,,,,,,,,,,,,,26949,,,,,,"26,949",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2005,false,,,,,,,,,,,,,264,,,,,,264,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2005,false,,,,,,,,,,,,,27675,,,,,,"27,675",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,HRV,Croatia,Year,2005,false,,,,,,,,,,,,,271,,,,,,271,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MWI,Malawi,Year,2005,false,,,,,,,,,,,,,28110,,,,,,"28,110",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GMB,Gambia,Year,2005,false,,,,,,,,,,,,,287,,,,,,287,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2005,false,,,,,,,,,,,,,288,,,,,,288,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ARM,Armenia,Year,2005,false,,,,,,,,,,,,,29,,,,,,29,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2005,false,,,,,,,,,,,,,29,,,,,,29,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2005,false,,,,,,,,,,,,,3,,,,,,3,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,UKR,Ukraine,Year,2005,false,,,,,,,,,,,,,3056,,,,,,"3,056",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2005,false,,,,,,,,,,,,,3300,,,,,,"3,300",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,PER,Peru,Year,2005,false,,,,,,,,,,,,,3535,,,,,,"3,535",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,HND,Honduras,Year,2005,false,,,,,,,,,,,,,3627,,,,,,"3,627",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GHA,Ghana,Year,2005,false,,,,,,,,,,,,,3799,,,,,,"3,799",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,HTI,Haiti,Year,2005,false,,,,,,,,,,,,,3995,,,,,,"3,995",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ALB,Albania,Year,2005,false,,,,,,,,,,,,,30,,,,,,30,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2005,false,,,,,,,,,,,,,31,,,,,,31,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2005,false,,,,,,,,,,,,,313,,,,,,313,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2005,false,,,,,,,,,,,,,317,,,,,,317,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2005,false,,,,,,,,,,,,,32,,,,,,32,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,MEX,Mexico,Year,2005,false,,,,,,,,,,,,,32206,,,,,,"32,206",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2005,false,,,,,,,,,,,,,326,,,,,,326,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,DEU,Germany,Year,2005,false,,,,,,,,,,,,,33061,,,,,,"33,061",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,IND,India,Year,2005,false,,,,,,,,,,,,,33087,,,,,,"33,087",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,SUR,Suriname,Year,2005,false,,,,,,,,,,,,,344,,,,,,344,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2005,false,,,,,,,,,,,,,36,,,,,,36,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2005,false,,,,,,,,,,,,,36,,,,,,36,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2005,false,,,,,,,,,,,,,4,,,,,,4,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GAB,Gabon,Year,2005,false,,,,,,,,,,,,,4503,,,,,,"4,503",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2005,false,,,,,,,,,,,,,42,,,,,,42,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2005,false,,,,,,,,,,,,,432,,,,,,432,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2005,false,,,,,,,,,,,,,455,,,,,,455,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2005,false,,,,,,,,,,,,,457,,,,,,457,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ITA,Italy,Year,2005,false,,,,,,,,,,,,,46371,,,,,,"46,371",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2005,false,,,,,,,,,,,,,47,,,,,,47,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BRB,Barbados,Year,2005,false,,,,,,,,,,,,,479,,,,,,479,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2005,false,,,,,,,,,,,,,483,,,,,,483,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2005,false,,,,,,,,,,,,,498,,,,,,498,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,TGO,Togo,Year,2005,false,,,,,,,,,,,,,5130,,,,,,"5,130",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ROU,Romania,Year,2005,false,,,,,,,,,,,,,5994,,,,,,"5,994",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2005,false,,,,,,,,,,,,,54,,,,,,54,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,KEN,Kenya,Year,2005,false,,,,,,,,,,,,,54093,,,,,,"54,093",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BWA,Botswana,Year,2005,false,,,,,,,,,,,,,55558,,,,,,"55,558",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2005,false,,,,,,,,,,,,,57,,,,,,57,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2005,false,,,,,,,,,,,,,57165,,,,,,"57,165",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,DZA,Algeria,Year,2005,false,,,,,,,,,,,,,574,,,,,,574,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ESP,Spain,Year,2005,false,,,,,,,,,,,,,58023,,,,,,"58,023",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SRB,Serbia,Year,2005,false,,,,,,,,,,,,,586,,,,,,586,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BDI,Burundi,Year,2005,false,,,,,,,,,,,,,6416,,,,,,"6,416",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2005,false,,,,,,,,,,,,,6439,,,,,,"6,439",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2005,false,,,,,,,,,,,,,605,,,,,,605,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,AGO,Angola,Year,2005,false,,,,,,,,,,,,,609,,,,,,609,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2005,false,,,,,,,,,,,,,62,,,,,,62,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,NER,Niger,Year,2005,false,,,,,,,,,,,,,695,,,,,,695,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,COL,Colombia,Year,2005,false,,,,,,,,,,,,,7803,,,,,,"7,803",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2005,false,,,,,,,,,,,,,77313,,,,,,"77,313",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,NLD,Netherlands,Year,2005,false,,,,,,,,,,,,,8060,,,,,,"8,060",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2005,false,,,,,,,,,,,,,8136,,,,,,"8,136",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2005,false,,,,,,,,,,,,,8157,,,,,,"8,157",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CHL,Chile,Year,2005,false,,,,,,,,,,,,,8306,,,,,,"8,306",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,LSO,Lesotho,Year,2005,false,,,,,,,,,,,,,8467,,,,,,"8,467",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,FRA,France,Year,2005,false,,,,,,,,,,,,,81078,,,,,,"81,078",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ISL,Iceland,Year,2005,false,,,,,,,,,,,,,85,,,,,,85,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2005,false,,,,,,,,,,,,,863,,,,,,863,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,UGA,Uganda,Year,2005,false,,,,,,,,,,,,,89000,,,,,,"89,000",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2005,false,,,,,,,,,,,,,9094,,,,,,"9,094",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2005,false,,,,,,,,,,,,,9752,,,,,,"9,752",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2005,false,,,,,,,,,,,,,90,,,,,,90,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SVN,Slovenia,Year,2005,false,,,,,,,,,,,,,96,,,,,,96,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,AUT,Austria,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BEL,Belgium,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CAN,Canada,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,CYP,Cyprus,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,CZE,Czechia,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,FIN,Finland,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,HUN,Hungary,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ISR,Israel,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,LVA,Latvia,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,LTU,Lithuania,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MLT,Malta,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,POL,Poland,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SVK,Slovakia,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SWE,Sweden,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,CHE,Switzerland,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,TUR,Turkey,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,USA,United States of America,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ALB,Albania,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,AGO,Angola,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ARM,Armenia,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BLR,Belarus,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BEN,Benin,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,TCD,Chad,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,CHN,China,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,COM,Comoros,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GAB,Gabon,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GMB,Gambia,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,GEO,Georgia,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GHA,Ghana,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,GUY,Guyana,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,HND,Honduras,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,IND,India,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,KEN,Kenya,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,LSO,Lesotho,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,LBR,Liberia,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MWI,Malawi,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MLI,Mali,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,NAM,Namibia,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,NER,Niger,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SRB,Serbia,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,TGO,Togo,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,UKR,Ukraine,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2000,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BRB,Barbados,Year,2000,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2000,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2000,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BWA,Botswana,Year,2000,false,,,,,,,,,,,,,1000,,,,,,"1,000",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,UGA,Uganda,Year,2000,false,,,,,,,,,,,,,1066,,,,,,"1,066",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2000,false,,,,,,,,,,,,,1100,,,,,,"1,100",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2000,false,,,,,,,,,,,,,1247,,,,,,"1,247",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2000,false,,,,,,,,,,,,,1392,,,,,,"1,392",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2000,false,,,,,,,,,,,,,1469,,,,,,"1,469",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2000,false,,,,,,,,,,,,,1733,,,,,,"1,733",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,DNK,Denmark,Year,2000,false,,,,,,,,,,,,,1740,,,,,,"1,740",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CHL,Chile,Year,2000,false,,,,,,,,,,,,,1780,,,,,,"1,780",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,MEX,Mexico,Year,2000,false,,,,,,,,,,,,,10270,,,,,,"10,270",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,HTI,Haiti,Year,2000,false,,,,,,,,,,,,,108,,,,,,108,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,ARG,Argentina,Year,2000,false,,,,,,,,,,,,,12327,,,,,,"12,327",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,HRV,Croatia,Year,2000,false,,,,,,,,,,,,,132,,,,,,132,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2000,false,,,,,,,,,,,,,132,,,,,,132,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2000,false,,,,,,,,,,,,,135,,,,,,135,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2000,false,,,,,,,,,,,,,14,,,,,,14,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2000,false,,,,,,,,,,,,,147,,,,,,147,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,DZA,Algeria,Year,2000,false,,,,,,,,,,,,,157,,,,,,157,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2000,false,,,,,,,,,,,,,16,,,,,,16,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2000,false,,,,,,,,,,,,,17,,,,,,17,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2000,false,,,,,,,,,,,,,18,,,,,,18,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2000,false,,,,,,,,,,,,,2,,,,,,2,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2000,false,,,,,,,,,,,,,2,,,,,,2,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2000,false,,,,,,,,,,,,,2,,,,,,2,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2000,false,,,,,,,,,,,,,2,,,,,,2,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,GRC,Greece,Year,2000,false,,,,,,,,,,,,,2074,,,,,,"2,074",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,EST,Estonia,Year,2000,false,,,,,,,,,,,,,20,,,,,,20,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ITA,Italy,Year,2000,false,,,,,,,,,,,,,20611,,,,,,"20,611",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,DEU,Germany,Year,2000,false,,,,,,,,,,,,,20704,,,,,,"20,704",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2000,false,,,,,,,,,,,,,211,,,,,,211,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2000,false,,,,,,,,,,,,,223,,,,,,223,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2000,false,,,,,,,,,,,,,265,,,,,,265,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ESP,Spain,Year,2000,false,,,,,,,,,,,,,28826,,,,,,"28,826",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2000,false,,,,,,,,,,,,,3986,,,,,,"3,986",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,SEN,Senegal,Year,2000,false,,,,,,,,,,,,,30,,,,,,30,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ISL,Iceland,Year,2000,false,,,,,,,,,,,,,33,,,,,,33,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2000,false,,,,,,,,,,,,,337,,,,,,337,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2000,false,,,,,,,,,,,,,340,,,,,,340,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,BDI,Burundi,Year,2000,false,,,,,,,,,,,,,38,,,,,,38,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GIN,Guinea,Year,2000,false,,,,,,,,,,,,,38,,,,,,38,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2000,false,,,,,,,,,,,,,4,,,,,,4,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MNE,Montenegro,Year,2000,false,,,,,,,,,,,,,4,,,,,,4,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ROU,Romania,Year,2000,false,,,,,,,,,,,,,4010,,,,,,"4,010",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,NLD,Netherlands,Year,2000,false,,,,,,,,,,,,,4888,,,,,,"4,888",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,PER,Peru,Year,2000,false,,,,,,,,,,,,,40,,,,,,40,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2000,false,,,,,,,,,,,,,426,,,,,,426,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SVN,Slovenia,Year,2000,false,,,,,,,,,,,,,44,,,,,,44,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BHS,Bahamas,Year,2000,false,,,,,,,,,,,,,46,,,,,,46,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CUB,Cuba,Year,2000,false,,,,,,,,,,,,,47,,,,,,47,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2000,false,,,,,,,,,,,,,49,,,,,,49,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2000,false,,,,,,,,,,,,,5,,,,,,5,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,JAM,Jamaica,Year,2000,false,,,,,,,,,,,,,5,,,,,,5,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,PRT,Portugal,Year,2000,false,,,,,,,,,,,,,5026,,,,,,"5,026",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2000,false,,,,,,,,,,,,,52,,,,,,52,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,COG,Congo,Year,2000,false,,,,,,,,,,,,,57,,,,,,57,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,FRA,France,Year,2000,false,,,,,,,,,,,,,57454,,,,,,"57,454",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2000,false,,,,,,,,,,,,,6018,,,,,,"6,018",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,COL,Colombia,Year,2000,false,,,,,,,,,,,,,603,,,,,,603,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,NOR,Norway,Year,2000,false,,,,,,,,,,,,,672,,,,,,672,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AFR,Africa,Country,MUS,Mauritius,Year,2000,false,,,,,,,,,,,,,7,,,,,,7,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,SUR,Suriname,Year,2000,false,,,,,,,,,,,,,7,,,,,,7,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,URY,Uruguay,Year,2000,false,,,,,,,,,,,,,708,,,,,,708,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2000,false,,,,,,,,,,,,,71,,,,,,71,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,PAN,Panama,Year,2000,false,,,,,,,,,,,,,750,,,,,,750,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BLZ,Belize,Year,2000,false,,,,,,,,,,,,,8,,,,,,8,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,IRL,Ireland,Year,2000,false,,,,,,,,,,,,,817,,,,,,817,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2000,false,,,,,,,,,,,,,86,,,,,,86,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2000,false,,,,,,,,,,,,,9,,,,,,9,,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,BRA,Brazil,Year,2000,false,,,,,,,,,,,,,91015,,,,,,"91,015",,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,AUT,Austria,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,BEL,Belgium,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,CAN,Canada,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,CYP,Cyprus,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,CZE,Czechia,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,FIN,Finland,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,HUN,Hungary,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,ISR,Israel,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,LVA,Latvia,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,LTU,Lithuania,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MLT,Malta,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,POL,Poland,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SVK,Slovakia,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,SWE,Sweden,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,CHE,Switzerland,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,TUR,Turkey,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
+HIV_0000000009,Reported number of people receiving antiretroviral therapy,numeric,AMR,Americas,Country,USA,United States of America,Year,2000,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-10-11T04:00:00.000Z
